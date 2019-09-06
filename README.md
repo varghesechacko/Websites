@@ -4,3 +4,4 @@
 * https://www.agileconnection.com/
 * http://www.softwaretestingclub.com/
 * http://searchsoftwarequality.com
+* https://ronjeffries.com
